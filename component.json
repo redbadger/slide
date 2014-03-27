@@ -1,0 +1,21 @@
+{
+  "name": "slide",
+  "repo": "redbadger/slide",
+  "description": "Slide up and down with CSS transitions",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/dom": "*",
+    "ecarter/css-emitter": "*",
+    "ramitos/dimensions": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "slide.css"
+  ]
+}

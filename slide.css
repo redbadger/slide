@@ -1,0 +1,11 @@
+.wrapper {
+  background-color: #eee;
+  overflow: hidden;
+  height: 0;
+}
+.wrapper.transition {
+  -webkit-transition: height 0.3s;
+     -moz-transition: height 0.3s;
+       -o-transition: height 0.3s;
+          transition: height 0.3s;
+}
