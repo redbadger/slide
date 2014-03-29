@@ -1,0 +1,22 @@
+{
+  "name": "slide",
+  "version": "0.0.1",
+  "description": "Slide up and down with CSS transitions",
+  "main": "none",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/redbadger/slide.git"
+  },
+  "author": "stuart.harris@red-badger.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redbadger/slide/issues"
+  },
+  "homepage": "https://github.com/redbadger/slide",
+  "devDependencies": {
+    "LiveScript": "^1.2.0"
+  }
+}
