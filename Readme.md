@@ -10,6 +10,7 @@
 - simple to use (create a container element with an inner element to slide)
 - you can specify whether you want to open or close the slide (or just let it toggle)
 - if you modify content in an open slide and then open it again, it'll grow/shrink to the new size
+- also fades opacity in and out
 
 ## Example usage:
   (for demo open index.html)
