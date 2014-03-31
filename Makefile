@@ -1,5 +1,6 @@
 
-build: components index.js slide.css
+build: components index.ls slide.css
+	node_modules/.bin/lsc -cb index.ls
 	@component build --dev
 
 components: component.json
